@@ -1,0 +1,52 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&family=Roboto:wght@400&display=swap');
+
+
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    background-color: #f5f7fa;
+    color: #333;
+}
+
+.hero {
+    position: relative;
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+
+
+.logo-image {
+    width: 60%; 
+    max-width: 600px; 
+    height: auto; 
+    border-radius: 8px; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 2.5rem;
+    color: #61dafb; 
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+p {
+    line-height: 1.6;
+    font-size: 1rem;
+    color: #555;
+}
